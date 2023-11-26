@@ -1,0 +1,1 @@
+﻿update  item  set category = 1 where id = 1 ;
